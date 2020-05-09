@@ -1,7 +1,7 @@
 # Noisy text to image
 
 #### Generated
-![Generated](./images/generated.png)
+![Generated](./images/generated.jpg)
 
 #### Real
-![real](./images/real.png)
+![real](./images/real.jpg)
